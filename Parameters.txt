@@ -1,0 +1,83 @@
+  NormalDistribution
+
+  Normal distribution
+       mu = 1.93893   [1.6488, 2.22906]
+    sigma = 1.46218   [1.2838, 1.69858]
+
+  NormalDistribution
+
+  Normal distribution
+       mu = 2.00671   [1.91483, 2.0986]
+    sigma = 1.48065   [1.41848, 1.54856]
+
+  NormalDistribution
+
+  Normal distribution
+       mu = 1.97787   [1.95021, 2.00553]
+    sigma = 1.41098   [1.39169, 1.43081]
+
+Uniform distribution
+a = 1.995877e+00
+b = 3.999427e+00
+Uniform distribution
+a = 1.998317e+00
+b = 4.000669e+00
+Uniform distribution
+a = 1.999896e+00
+b = 4.000050e+00
+  ExponentialDistribution
+
+  Exponential distribution
+    mu = 0.390299   [0.323822, 0.479695]
+
+  ExponentialDistribution
+
+  Exponential distribution
+    mu = 0.485077   [0.456362, 0.516604]
+
+  ExponentialDistribution
+
+  Exponential distribution
+    mu = 0.501019   [0.491343, 0.510986]
+
+  NormalDistribution
+
+  Normal distribution
+       mu = 1.87097   [1.55204, 2.1899]
+    sigma = 1.60734   [1.41125, 1.86721]
+
+  NormalDistribution
+
+  Normal distribution
+       mu = 2.10932   [2.02339, 2.19524]
+    sigma = 1.38467   [1.32653, 1.44818]
+
+  NormalDistribution
+
+  Normal distribution
+       mu = 2.00971   [1.98211, 2.03732]
+    sigma = 1.40842   [1.38917, 1.42821]
+
+Uniform distribution
+a = 1.991417e+00
+b = 3.993401e+00
+Uniform distribution
+a = 2.007274e+00
+b = 4.001426e+00
+Uniform distribution
+a = 1.999823e+00
+b = 3.999635e+00
+  ExponentialDistribution
+
+  Exponential distribution
+    mu = 0.517511   [0.429367, 0.636045]
+
+  ExponentialDistribution
+
+  Exponential distribution
+    mu = 0.483193   [0.454589, 0.514597]
+
+  ExponentialDistribution
+
+  Exponential distribution
+    mu = 0.504432   [0.49469, 0.514467]
